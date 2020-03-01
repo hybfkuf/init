@@ -245,7 +245,7 @@ inoremap <C-b> <esc><C-e>a
 ""colorscheme  gruvbox
 ""colorscheme janah
 ""colors zenburn
-colorscheme yowish
+""colorscheme yowish
 set background=dark
 
 "模板文件"
