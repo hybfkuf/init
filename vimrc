@@ -34,7 +34,7 @@ let NERDTreeWinSize=31
 map <F3> :NERDTreeMirror<CR>
 map <F3> :NERDTreeToggle<CR>
 
-Plug 'ycm-core/YouCompleteMe', { 'do': './install.sh' }
+""Plug 'ycm-core/YouCompleteMe', { 'do': './install.sh' }
 let g:ycm_autoclose_preview_window_after_completion=1
 "确保了在你完成操作之后,自动补全窗口不会消失"
 map <leader>g  :YcmCompleter GoToDefinitionElseDeclaration<CR>
